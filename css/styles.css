@@ -1,0 +1,23 @@
+body{
+  background-color: #acc1df;
+}
+
+h1{
+  color: #a57cd9;
+  text-align: center;
+}
+
+h2{
+  font-weight: bold;
+  text-align: center;
+}
+
+h3{
+  font-weight: bold;
+}
+
+p{
+  text-align: left;
+  font-family: sans-serif;
+}
+
