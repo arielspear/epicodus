@@ -21,3 +21,7 @@ p{
   font-family: sans-serif;
 }
 
+p.quote {
+	font-family: sans-serif;
+	font-style: italic;
+}
