@@ -1,23 +1,30 @@
-body{
+body {
   background-color: #c0ffee;
 }
 
-h1{
+.sidebar {
+	width: 30%;
+	float: right;
+	border-style: solid;
+	border-color: #000000;
+}
+
+h1 {
   color: #a57cd9;
   text-align: center;
 }
 
-h2{
+h2 {
   font-weight: bold;
   text-align: center;
 }
 
-h3{
+h3 {
   font-weight: bold;
   text-decoration: underline;
 }
 
-p{
+p {
   text-align: left;
   font-family: sans-serif;
 }
@@ -25,7 +32,7 @@ p{
 p.quote {
 	font-family: times;
 	font-weight: bold;
-	font-size: 90%;
+	font-size: 120%;
 }
 
 li.comic {
@@ -35,4 +42,9 @@ li.comic {
 
 .cute {
 	color: #d8059a;
+}
+
+.column {
+	width: 350px;
+	float: left;
 }
