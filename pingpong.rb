@@ -6,6 +6,7 @@ i = 0
 puts "Thanks, let's play ping-pong."
 
 while i < num do
+
   i += 1
   if (i % 3 == 0) && (i % 5 == 0)
     puts "Ping-Pong"
