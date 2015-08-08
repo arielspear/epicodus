@@ -9,6 +9,7 @@ public class MealTime {
 
   public static void askWhatYouAreFor(String meal) {
     Console myConsole = System.console();
+
     System.out.println("What did you eat for " + meal + "?");
     String yourFood = myConsole.readLine();
     System.out.println("You had " + yourFood + " for " + meal + ".");
